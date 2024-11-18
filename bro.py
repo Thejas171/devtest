@@ -1,3 +1,3 @@
-j=10
-i=20
-print(i+j)
+a=10
+b=15
+print(a+b)
