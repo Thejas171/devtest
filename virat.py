@@ -1,5 +1,5 @@
 print("vvce")
 print("mysuru")
-i = 10
+print("bye")
 j = 20
-print(i+j)
+print(j)
